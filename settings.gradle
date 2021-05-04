@@ -1,0 +1,4 @@
+include ':product'
+include ':uikit'
+include ':app'
+rootProject.name = "VP_poc"
